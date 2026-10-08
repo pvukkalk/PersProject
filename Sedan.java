@@ -1,3 +1,3 @@
-public class Sedan {
+public class Sedan extends Vehicle {
 
 }
